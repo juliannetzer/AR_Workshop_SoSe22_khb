@@ -31,3 +31,5 @@ username.github.io
 
 on your phone you should be able to use your model in augmented reality. (takes up to 20 minutes) 
 
+Example: https://juliannetzer.github.io/
+
