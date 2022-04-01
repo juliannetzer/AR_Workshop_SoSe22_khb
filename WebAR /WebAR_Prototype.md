@@ -29,5 +29,5 @@ Add the following code:
 
 username.github.io
 
-on your phone you should be able to use your model in augmented reality. (takes up 20 minutes) 
+on your phone you should be able to use your model in augmented reality. (takes up to 20 minutes) 
 
