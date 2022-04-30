@@ -2,6 +2,11 @@
 
 https://openar.art/e/openar-art
 
+Recommendations:
+https://openar.art/e/openar-art/Yq2kXKW4YuwVSkrn
+
+https://openar.art/e/openar-art/h0JnLBknAIMXFDYq (step into it)
+
 
 # WebAR with google model viewer
 
