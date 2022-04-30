@@ -1,4 +1,4 @@
-# Visit the OpenAR-Art-Exhition: 
+# Visit the OpenAR-Art exhibition: 
 
 https://openar.art/e/openar-art
 
