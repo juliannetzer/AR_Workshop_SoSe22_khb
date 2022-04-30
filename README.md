@@ -3,9 +3,9 @@
 https://openar.art/e/openar-art
 
 Recommendations:
-https://openar.art/e/openar-art/Yq2kXKW4YuwVSkrn
+[Jeremy Bailey - Sculpture No.3](https://openar.art/e/openar-art/Yq2kXKW4YuwVSkrn)
 
-https://openar.art/e/openar-art/h0JnLBknAIMXFDYq (step into it)
+[Tamas Pall - OVO/\map](https://openar.art/e/openar-art/h0JnLBknAIMXFDYq) (step into it)
 
 
 # WebAR with google model viewer
