@@ -8,7 +8,7 @@ https://github.com/
 
 ## Create your github page: 
 
-### 1. Follow: https://docs.github.com/en/pages/quickstart (Skip steps 4-6)
+### 1. Follow: https://docs.github.com/en/pages/quickstart (Skip steps 4-6 & Everything starting from "Changing the title and description")
 
 ### 2. Create index.html file in your repository:
 ![github](assets/github_1.png)
