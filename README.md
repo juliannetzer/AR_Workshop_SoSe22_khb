@@ -1,3 +1,8 @@
+# Visit to the OpenAR-Art-Exhition: 
+
+https://openar.art/e/openar-art
+
+
 # WebAR with google model viewer
 
 Creates a simple AR Web Application for prototyping. 
